@@ -4,7 +4,8 @@
 
 1. OBJETIVOS
 
-
+- Demostrar experimentalmente la validez del teorema de Thévenin yNorton para la reducción de circuito
+- 
 
 2. MARCO TEÓRICO
 
@@ -21,7 +22,9 @@ https://drive.google.com/file/d/1EzgyFwEIJp9vEzMdye1cWzTnVQuDg4bI/view?usp=shari
 
 5. CONCLUSIONES
 
-
+- El teorema de Thevenin es muy util por que nos permite reducir un circuito complejo, a uno con una configuracion mas sencilla de analizar.
+- En el teorema de Norton se concluye con el divisor de corriente para determinar la corriente que circula en una rama.
+- 
 
 6. BIBLIOGRAFÍA
 
